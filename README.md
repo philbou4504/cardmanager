@@ -1,7 +1,7 @@
 Méthodologie de Conception : Application R.U.S. Biesme
 Auteur : Philippe BOUNAMEAU
 Date : Janvier 2026
-Objectif : Gestion informatisée des sanctions sportives (Cartons Jaunes/Rouges) et des suspensions pour le club de football de Biesme.
+Objectif : Gestion informatisée des sanctions sportives (Cartons Jaunes/Rouges) et des suspensions pour un club de football. EXCLUSIVEMENT POUR SMARTPHONE! PAS PC, PAS TABLETTE
 ________________________________________
 1. Architecture Technique
 L'application est conçue comme une Single Page Application (SPA) utilisant les technologies Web standards, permettant une exécution sans serveur (Serverless) et une compatibilité multi-support (iPad, PC, Smartphone).
